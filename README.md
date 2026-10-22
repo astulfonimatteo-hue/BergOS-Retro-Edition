@@ -1,5 +1,11 @@
 # BergOS Retro Edition
 
+<img width="1251" height="938" alt="Schermata_20261022_153924" src="https://github.com/user-attachments/assets/cc68a6ab-9f5c-43a6-9ac6-32cb8473c670" />
+
+_Example of BergOS desktop_
+
+---
+
 **BergOS Retro** is a specialized edition designed to revive legacy computers and vintage hardware that lack 64-bit processor support.
 
 While modern operating systems have phased out older hardware architectures, BergOS Retro builds upon **Debian 12 (Bookworm) 32-bit (`i386`)** to provide a functional, stable, and secure operating system for 32-bit computers.
