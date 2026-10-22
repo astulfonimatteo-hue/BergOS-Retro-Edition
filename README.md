@@ -34,3 +34,9 @@ While modern operating systems have phased out older hardware architectures, Ber
 - **RAM:** 512 MB minimum (1 GB or more recommended)
 - **Storage:** 10 GB available disk space
 - **Graphics:** Basic legacy GPU / integrated graphics
+
+---
+
+## Project Roadmap
+
+BergOS is developed incrementally across four distinct editions. To see upcoming features, release milestones, and the long-term vision for the project, check out the [Official BergOS Roadmap](https://github.com/astulfonimatteo-hue/Berg_Linux/blob/main/ROADMAP.md).
