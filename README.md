@@ -3,6 +3,8 @@
 <img width="1179" height="1145" alt="IMG_1838" src="https://github.com/user-attachments/assets/7f2a4a5e-d256-4bb7-a068-044688b6f635" />
 
 
+_The main repository of the project is at this [link](https://github.com/astulfonimatteo-hue/Berg_Linux)_
+
 ---
 
 **BergOS Retro** is a specialized edition designed to revive legacy computers and vintage hardware that lack 64-bit processor support.
