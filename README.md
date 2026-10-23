@@ -1,8 +1,7 @@
 # BergOS Retro Edition
 
-<img width="1251" height="938" alt="Schermata_20261022_153924" src="https://github.com/user-attachments/assets/cc68a6ab-9f5c-43a6-9ac6-32cb8473c670" />
+<img width="1179" height="1145" alt="IMG_1838" src="https://github.com/user-attachments/assets/7f2a4a5e-d256-4bb7-a068-044688b6f635" />
 
-_Example of BergOS desktop_
 
 ---
 
@@ -20,6 +19,9 @@ While modern operating systems have phased out older hardware architectures, Ber
 - **Legacy Compatibility:** Full X11 support, tailored driver defaults, and lightweight application choices.
 - **Modern Calamares Setup:** A graphical installer making 32-bit Linux setup modern and straightforward.
 
+<img width="1251" height="938" alt="Schermata_20261022_153924" src="https://github.com/user-attachments/assets/cc68a6ab-9f5c-43a6-9ac6-32cb8473c670" />
+
+_Example of BergOS desktop_
 ---
 
 ## Technical Specifications
